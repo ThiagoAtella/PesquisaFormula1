@@ -31,5 +31,8 @@ Futuras Melhorias
 Adicionar uma base de dados dinâmica para inserir novos pilotos.
 Expandir as funcionalidades, permitindo a filtragem por categorias como equipe, país, etc.
 Melhorar a interface para exibir mais detalhes sobre os pilotos.
+
+Abra com este link: https://thiagoatella.github.io/PesquisaFormula1/
+
 Autor
 Este site foi criado por Thiago Atella de Freitas, estudante do ISERJ, em 5 de setembro de 2024.
